@@ -10,3 +10,7 @@ The implementation runs on:
 - Python 3.8
 - PyTorch 1.8.1
 - CUDA 11.1
+
+## Federated Learning Algorithm for Batch Normalization
+Currently, this repository supports the following federated learning algorithm:
+- FedTAN (Federated learning algorithm tailored for batch normalization): perform iterative layer-wise parameter aggregation
