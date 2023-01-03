@@ -15,5 +15,18 @@ The implementation runs on:
 Currently, this repository supports the following federated learning algorithm:
 - FedTAN (Federated learning algorithm tailored for batch normalization): perform iterative layer-wise parameter aggregation.
 
+## Launch Experiments
+An example launch script is shown below.
+```bash
+python main.py
+    --seed 0 \
+    --data_distribution 1 \
+    --momentum 0 \
+    --weight_decay 0 \
+```
+Explanations of arguments:
+- `seed`: random seed
+- `data_distribution`: local dataset dirstribution (iid: 1; non-iid: 0)
+
 ## About
 This project is still improving, if any problems (bugs), [Issue](https://github.com/wangyanmeng/FedTAN/issues) please.
