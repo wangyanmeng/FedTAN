@@ -10,6 +10,7 @@ The implementation runs on:
 - Python 3.8
 - PyTorch 1.8.1
 - CUDA 11.1
+- CIFAR-10 dataset
 
 ## Federated Learning Algorithm for Batch Normalization
 Currently, this repository supports the following federated learning algorithm:
