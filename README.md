@@ -16,4 +16,4 @@ Currently, this repository supports the following federated learning algorithm:
 - FedTAN (Federated learning algorithm tailored for batch normalization): perform iterative layer-wise parameter aggregation.
 
 ## About
-This project is still improving, if any problems(bugs), [Issue](https://github.com/wangyanmeng/FedTAN/issues) please.
+This project is still improving, if any problems (bugs), [Issue](https://github.com/wangyanmeng/FedTAN/issues) please.
