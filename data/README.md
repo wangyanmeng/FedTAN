@@ -1,1 +1,2 @@
-CIFAR-10 datasets will be downloaded automatically by the torchvision package.
+#Data
+CIFAR-10 dataset will be downloaded automatically by the torchvision package.
