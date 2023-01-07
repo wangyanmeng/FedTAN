@@ -19,7 +19,7 @@ Currently, this repository supports the following federated learning algorithm:
 ## Launch Experiments
 An example launch script is shown below.
 ```bash
-python main.py
+python FedTAN.py
     --seed 0 \
     --data_distribution 1 \
     --momentum 0 \
