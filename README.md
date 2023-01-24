@@ -28,6 +28,8 @@ python FedTAN.py
 Explanations of arguments:
 - `seed`: random seed
 - `data_distribution`: local dataset dirstribution (iid: 1; non-iid: 2)
+- `momentum`: momentum parameter used in SGD optimiter
+- `weight_decay`: weight decay parameter used in SGD optimiter
 
 ## About
 This project is still improving, if any problems (bugs), [Issue](https://github.com/wangyanmeng/FedTAN/issues) please.
